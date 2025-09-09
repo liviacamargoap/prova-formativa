@@ -1,0 +1,1 @@
+def classificar_triangulo(a, b, c)
